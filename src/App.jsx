@@ -4,12 +4,12 @@ import {BrowserRouter as Router, Routes, Route} from  "react-router-dom"
 import Login from "./components/Login";
 import Bank from "./components/Bank";
 import DebtCredit from "./components/DebtCredit";
-import LoanApplication from "./components/loanApplication"
-import Service from "./components/service";
+import LoanApplication from "./components/LoanApplication"
+import Service from "./components/Service";
 import MyInfo from "./components/MyInfo";
 import MyCertification from "./components/MyCertification";
 import CashFlow from "./components/CashFlow"
-import PaymentPlan from "./components/paymentplan";
+import PaymentPlan from "./components/PaymentPlan";
 import AboutUs from './components/AboutUs';
 import Setting from './components/Setting';
 import ResetPassword from "./components/ResetPassword";
