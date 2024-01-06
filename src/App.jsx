@@ -21,6 +21,7 @@ function App() {
   return (
     <Router>
       <Routes>
+        <Route path="/" element={<Login />} />
         <Route path="/login" element={<Login />} />
         <Route path="/bank" element={<Bank />} />
         <Route path="/loan" element={<LoanApplication />} />
@@ -40,4 +41,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
