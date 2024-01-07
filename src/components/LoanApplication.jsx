@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import '../css/loan.css';
-import LoanItem from "./loanItem";
+import LoanItem from "./LoanItem";
 import loanData from '../../loanData';
 import Header from "../basecomponents/Header";
 
