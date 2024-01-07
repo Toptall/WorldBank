@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import '../css/bank.css';
+import '../css/Bank.css';
 
 import bankimg from '../assets/ban03.jpg';
 import icon_ad from '../assets/icon_ad.png';
