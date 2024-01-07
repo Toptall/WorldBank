@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import agreeData from "../../agreement";
-import '../css/modal.css'
+import '../css/Modal.css'
 
 const Modaldialog = (props) => {
 
